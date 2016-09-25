@@ -1,0 +1,5 @@
+AuthName "AUTHENTIFICATION ADMIN :"
+AuthType Basic
+AuthUserFile "C:\Program Files (x86)\EasyPHP\data\localweb\SiteWebShop\admin\.htpasswd"
+AuthGroupFile "/dev/null"
+Require valid-user 
